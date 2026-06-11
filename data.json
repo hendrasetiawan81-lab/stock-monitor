@@ -1,6 +1,14 @@
-{
-  "market":"IHSG",
-  "symbol":"BBCA",
-  "price":"8950",
-  "change":"1.36"
-}
+[
+  {
+    "market":"IHSG",
+    "symbol":"BBCA",
+    "price":"8950",
+    "change":"1.36"
+  },
+  {
+    "market":"IHSG",
+    "symbol":"BBRI",
+    "price":"4200",
+    "change":"-0.50"
+  }
+]
